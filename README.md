@@ -6,9 +6,21 @@
 </p>
 
 <h2 align="center">👋 Hello, I'm Vojtech 👋</h2>
-<p align="center"></p>
+<p align="center">I'm Head of engineering and co-founder of FlowUp. My expertise is software engineering, front-end architecture and agile development. I'm using Angular since its pre-release stage.
+I'm also a Head of engineering and co-founder of <a href="https://flowup.cz/en">FlowUp<a>, where I lead multiple agile development teams.</p>
 
 ### 📰 Blog Posts
+||Tech articles|
+|---|---|
+|<a href="https://medium.com/angular-in-depth/google-apis-with-angular-214fadb8fbc5"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813141-97d0f000-5807-11eb-8418-518fec60cc26.jpg"></a>|[Integrating Google APIs with Angular](https://medium.com/angular-in-depth/google-apis-with-angular-214fadb8fbc5)|
+|<a href="https://medium.com/angular-in-depth/angular-typed-translations-29353f0a60bc"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813346-e337ce00-5808-11eb-9637-53d5071edaf5.png"></a>|[Translations as a code (Typed translations)](https://medium.com/angular-in-depth/angular-typed-translations-29353f0a60bc)|
+|<a href="https://itnext.io/angular-structural-directives-b54ea21b39a7"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813377-22661f00-5809-11eb-858c-b60574ebea5a.png"></a>|[Structural directives in Angular](https://itnext.io/angular-structural-directives-b54ea21b39a7)|
+
+||Agile articles|
+|---|---|
+|<a href="https://flowup.cz/en/article/scrum-artifact-documents"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813517-eaaba700-5809-11eb-8c1b-5bc83f4b5e97.png"></a>|[Scrum artifacts](https://flowup.cz/en/article/scrum-artifact-documents)|
+|<a href="https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813517-eaaba700-5809-11eb-8c1b-5bc83f4b5e97.png"></a>|[The way we work with Scrum](https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum)|
+
 
 ### 📽️ Talks
 - 🇬🇧 [Angular build, polyfills and application size](https://youtu.be/R0ZVW0Dm1Dk) @ *[ngJapan 2019](https://2019.ngjapan.org/#speakers)*
