@@ -23,6 +23,8 @@ I'm also a Head of engineering and co-founder of <a href="https://flowup.cz/en">
 
 
 ### 📽️ Talks
+- 🇬🇧 [Optimize Angular application for size](https://www.youtube.com/watch?v=_Fw4B6zCHtE) @ *[ng-india 2022](https://www.ng-ind.com/)*
+
 - 🇬🇧 [Techniques for lazy loading your JS bundles in Angular](https://youtu.be/diYL_mgU_jI?t=6623) @ *ngBeer Brno (remote) vol. 9*
   
 - 🇬🇧 [Angular build, polyfills and application size](https://youtu.be/R0ZVW0Dm1Dk) @ *[ngJapan 2019](https://2019.ngjapan.org/#speakers)*
