@@ -6,9 +6,31 @@
 </p>
 
 <h2 align="center">👋 Hello, I'm Vojtech 👋</h2>
-<p align="center">I'm Head of engineering and co-founder of FlowUp. My expertise is software engineering, front-end architecture and agile development. I'm using Angular since its pre-release stage.
-I'm also a Head of engineering and co-founder of <a href="https://flowup.cz/en">FlowUp<a>, where I lead multiple agile development teams.</p>
+<p align="center">I'm Head of engineering and co-founder of <a href="https://flowup.cz/en">FlowUp<a>, where I lead multiple agile development teams. My expertise is software engineering, front-end architecture and agile development. I'm using Angular since its pre-release stage.</p>
 
+### 📽️ Talks
+- 🇬🇧|🇺🇸 [Lazy-loading techniques beyond (Angular) router]( https://www.youtube.com/watch?v=bg4bdqurTnM) @ *[ng-de 2022](https://ng-de.org/)*
+  
+- 🇬🇧|🇺🇸 [Optimize Angular application for size](https://www.youtube.com/watch?v=_Fw4B6zCHtE) @ *[ng-india 2022](https://www.ng-ind.com/)*
+  
+- 🇬🇧|🇺🇸 [Techniques for lazy loading your JS bundles in Angular](https://youtu.be/diYL_mgU_jI?t=6623) @ *ngBeer Brno (remote) vol. 9*
+  
+- 🇬🇧|🇺🇸 [Angular build, polyfills and application size](https://youtu.be/R0ZVW0Dm1Dk) @ *[ngJapan 2019](https://2019.ngjapan.org/#speakers)*
+
+- 🇬🇧|🇺🇸 [Translations as a code (typed translations)](https://youtu.be/2pntJ0yzV1Y) @ *Angular Vienna 2020*
+
+- 🇬🇧|🇺🇸 [Structural Directives in Angular](https://youtu.be/TBcAXgsVFtM) @ *Angular Vienna 2019*
+
+- 🇬🇧|🇺🇸 [Optimizing Angular for size](https://www.youtube.com/watch?v=vm8kO7Wf2Mo) @ *Angular Dubai 2020*
+
+- 🇬🇧|🇺🇸 [Pipes in Angular](https://youtu.be/YdQNtdsm_C0?t=558) @ *NgBeer Bratislava (special edition with Igor Minar)*
+
+- 🇸🇰|🇨🇿 [Pipes (Effectively Using Change Detection and Pure Pipes in Angular)](https://youtu.be/6kklkl5r-TY) @ *[NgBeer Brno vol. 3](https://flowup.cz/ng-beer/brno/3)*
+
+- 🇸🇰|🇨🇿 [Translations as a code (typed translations)](https://youtu.be/u9nWFcWd8mU) @ *NgBeer Bratislava vol. 6*
+
+  
+  
 ### 📰 Blog Posts
 ||Tech articles|
 |---|---|
@@ -20,27 +42,6 @@ I'm also a Head of engineering and co-founder of <a href="https://flowup.cz/en">
 |---|---|
 |<a href="https://flowup.cz/en/article/scrum-artifact-documents"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813517-eaaba700-5809-11eb-8c1b-5bc83f4b5e97.png"></a>|[Scrum artifacts](https://flowup.cz/en/article/scrum-artifact-documents)|
 |<a href="https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813517-eaaba700-5809-11eb-8c1b-5bc83f4b5e97.png"></a>|[The way we work with Scrum](https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum)|
-
-
-### 📽️ Talks
-- 🇬🇧 [Optimize Angular application for size](https://www.youtube.com/watch?v=_Fw4B6zCHtE) @ *[ng-india 2022](https://www.ng-ind.com/)*
-
-- 🇬🇧 [Techniques for lazy loading your JS bundles in Angular](https://youtu.be/diYL_mgU_jI?t=6623) @ *ngBeer Brno (remote) vol. 9*
-  
-- 🇬🇧 [Angular build, polyfills and application size](https://youtu.be/R0ZVW0Dm1Dk) @ *[ngJapan 2019](https://2019.ngjapan.org/#speakers)*
-
-- 🇬🇧 [Translations as a code (typed translations)](https://youtu.be/2pntJ0yzV1Y) @ *Angular Vienna 2020*
-
-- 🇬🇧 [Structural Directives in Angular](https://youtu.be/TBcAXgsVFtM) @ *Angular Vienna 2019*
-
-- 🇬🇧 [Optimizing Angular for size](https://www.youtube.com/watch?v=vm8kO7Wf2Mo) @ *Angular Dubai 2020*
-
-- 🇬🇧 [Pipes in Angular](https://youtu.be/YdQNtdsm_C0?t=558) @ *NgBeer Bratislava (special edition with Igor Minar)*
-
-- 🇸🇰 [Pipes (Effectively Using Change Detection and Pure Pipes in Angular)](https://youtu.be/6kklkl5r-TY) @ *[NgBeer Brno vol. 3](https://flowup.cz/ng-beer/brno/3)*
-
-- 🇸🇰 [Translations as a code (typed translations)](https://youtu.be/u9nWFcWd8mU) @ *NgBeer Bratislava vol. 6*
-
 
 ### 💼 What do I do?
 - Head of engineering @ [FlowUp](https://flowup.cz/en) 💼
