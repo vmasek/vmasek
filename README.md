@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">👋 Hello, I'm Vojtech 👋</h2>
-<p align="center">I'm Director of engineering and co-founder of <a href="https://flowup.cz/en">FlowUp<a>, where I lead multiple development teams. My expertise is software engineering, front-end architecture and agile development. I'm using Angular since its pre-release stage.</p>
+<p align="center">I'm CTO and co-founder of <a href="https://flowup.cz/en">FlowUp<a>, where I lead multiple development teams. My expertise is software engineering, front-end architecture and agile development. I'm using Angular since its pre-release stage.</p>
 
 ### 📽️ Talks
 - 🇬🇧|🇺🇸 [Lazy-loading techniques beyond (Angular) router]( https://www.youtube.com/watch?v=bg4bdqurTnM) @ *[ng-de 2022](https://ng-de.org/)*
