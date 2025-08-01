@@ -1,3 +1,5 @@
+
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/vojtechmasek/"><img height="42" src="https://user-images.githubusercontent.com/7274335/104812082-1cb80b80-5800-11eb-9c82-afc728e0be2a.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@vmasek"><img height="42" src="https://user-images.githubusercontent.com/7274335/104812083-1d50a200-5800-11eb-9d11-00ca7e3f10da.png"></a>&nbsp;&nbsp;
@@ -9,25 +11,27 @@
 <p align="center">I'm CTO and co-founder of <a href="https://flowup.cz/en">FlowUp<a>, where I lead multiple development teams. My expertise is software engineering, front-end architecture and agile development. I'm using Angular since its pre-release stage.</p>
 
 ### 📽️ Talks
-- 🇬🇧|🇺🇸 [Lazy-loading techniques beyond (Angular) router]( https://www.youtube.com/watch?v=bg4bdqurTnM) @ *[ng-de 2022](https://ng-de.org/)*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Lazy-loading techniques beyond (Angular) router]( https://www.youtube.com/watch?v=bg4bdqurTnM) @ *[ng-de 2022](https://ng-de.org/)*
   
-- 🇬🇧|🇺🇸 [Optimize Angular application for size](https://www.youtube.com/watch?v=_Fw4B6zCHtE) @ *[ng-india 2022](https://www.ng-ind.com/)*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Optimize Angular application for size](https://www.youtube.com/watch?v=_Fw4B6zCHtE) @ *[ng-india 2022](https://www.ng-ind.com/)*
   
-- 🇬🇧|🇺🇸 [Techniques for lazy loading your JS bundles in Angular](https://youtu.be/diYL_mgU_jI?t=6623) @ *ngBeer Brno (remote) vol. 9*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Techniques for lazy loading your JS bundles in Angular](https://youtu.be/diYL_mgU_jI?t=6623) @ *ngBeer Brno (remote) vol. 9*
   
-- 🇬🇧|🇺🇸 [Angular build, polyfills and application size](https://youtu.be/R0ZVW0Dm1Dk) @ *[ngJapan 2019](https://2019.ngjapan.org/#speakers)*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Angular build, polyfills and application size](https://youtu.be/R0ZVW0Dm1Dk) @ *[ngJapan 2019](https://2019.ngjapan.org/#speakers)*
 
-- 🇬🇧|🇺🇸 [Translations as a code (typed translations)](https://youtu.be/2pntJ0yzV1Y) @ *Angular Vienna 2020*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Translations as a code (typed translations)](https://youtu.be/2pntJ0yzV1Y) @ *Angular Vienna 2020*
 
-- 🇬🇧|🇺🇸 [Structural Directives in Angular](https://youtu.be/TBcAXgsVFtM) @ *Angular Vienna 2019*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Structural Directives in Angular](https://youtu.be/TBcAXgsVFtM) @ *Angular Vienna 2019*
 
-- 🇬🇧|🇺🇸 [Optimizing Angular for size](https://www.youtube.com/watch?v=vm8kO7Wf2Mo) @ *Angular Dubai 2020*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" /> [Optimizing Angular for size](https://www.youtube.com/watch?v=vm8kO7Wf2Mo) @ *Angular Dubai 2020*
 
-- 🇬🇧|🇺🇸 [Pipes in Angular](https://youtu.be/YdQNtdsm_C0?t=558) @ *NgBeer Bratislava (special edition with Igor Minar)*
+- <img height="10" alt="GB flag" src="https://github.com/user-attachments/assets/9eeecdc8-8b7e-4f94-8758-520ec0ca2cac" />|<img height="10" alt="US flag" src="https://github.com/user-attachments/assets/c6314cd4-5390-4fd2-a466-ebcdc8814952" />
+ [Pipes in Angular](https://youtu.be/YdQNtdsm_C0?t=558) @ *NgBeer Bratislava (special edition with Igor Minar)*
 
-- 🇸🇰|🇨🇿 [Pipes (Effectively Using Change Detection and Pure Pipes in Angular)](https://youtu.be/6kklkl5r-TY) @ *[NgBeer Brno vol. 3](https://flowup.cz/ng-beer/brno/3)*
+- <img height="10" alt="CZ flag" src="https://github.com/user-attachments/assets/3bcfdf4a-57be-4ca6-8e6c-345af7b62600" />|<img height="10" alt="SK flag" src="https://github.com/user-attachments/assets/f2a3100b-debe-4e07-977a-e1c9e52b69ff" />
+ [Pipes (Effectively Using Change Detection and Pure Pipes in Angular)](https://youtu.be/6kklkl5r-TY) @ *[NgBeer Brno vol. 3](https://flowup.cz/ng-beer/brno/3)*
 
-- 🇸🇰|🇨🇿 [Translations as a code (typed translations)](https://youtu.be/u9nWFcWd8mU) @ *NgBeer Bratislava vol. 6*
+- <img height="10" alt="CZ flag" src="https://github.com/user-attachments/assets/3bcfdf4a-57be-4ca6-8e6c-345af7b62600" />|<img height="10" alt="SK flag" src="https://github.com/user-attachments/assets/f2a3100b-debe-4e07-977a-e1c9e52b69ff" /> [Translations as a code (typed translations)](https://youtu.be/u9nWFcWd8mU) @ *NgBeer Bratislava vol. 6*
 
   
   
@@ -44,14 +48,16 @@
 |<a href="https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum"><img width="200" src="https://user-images.githubusercontent.com/7274335/104813517-eaaba700-5809-11eb-8c1b-5bc83f4b5e97.png"></a>|[The way we work with Scrum](https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum)|
 
 ### 💼 What do I do?
-- Head of engineering @ [FlowUp](https://flowup.cz/en) 💼
+- CTO @ [FlowUp](https://flowup.cz/en) 💼
 
 ### 💻 What I am currently working on
-- Generate API SDK for Angular ([API-client-generator](https://github.com/flowup/api-client-generator) ) 🛠️ 🚀
+- [Code PushUp](https://github.com/code-pushup/cli): Comprehensive tech quality monitoring  🛠️ 🚀
 
 ### 💬 Ask me about
 - Angular
   - Server Side Rendering
+  - Defer and lazy-loading
+  - Apollo GraphQL
   - HTTP Client
   - NgRx / state management
   - RxJS
@@ -59,10 +65,11 @@
   - Load time performance (size)
   - A lot more
 - TypeScript
+- Code quality and Linting
 - Frontend development
 - Web app architecture
 - Firebase
-- WebStorm
+- IntelliJ IDEA / WebStorm
 - Scrum / Agile
 
 ### 📫 Where to find me
@@ -73,11 +80,12 @@
 - [Blog](https://medium.com/@vmasek) 📰
 
 ### ⚡ Fun facts:
- - 🌩️ proud WebStorm power user
+ - 🌩️ proud IntelliJ IDEA / WebStorm power user
  - 🅰️ shipped first production Angular app with Angular still in beta version (crazy times 🤪)
  - 🍲 home cooking speciallist 
  - 🍺 beer lover
  - 🐕 dog person
 
 ----
-JB request ID: `26072023/12186400`
+<sup><sub><sub>JB request ID: `26072023/12186400`</sub></sub></sup>
+
